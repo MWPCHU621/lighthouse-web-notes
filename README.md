@@ -5,5 +5,5 @@
 
 ## Summary
 
-  This repository contains all of the notes taken by [Patrick](https://github.com/MWPCHU621/lighthouse-web-notes)
+  This repository contains all of the notes taken by [Patrick](https://github.com/MWPCHU621) for the [Lighthouse Labs](https://lighthouselabs.ca/web-bootcamp) Web Development Bootcamp.
 
